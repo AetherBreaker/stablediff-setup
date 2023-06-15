@@ -61,7 +61,7 @@ wget -O /root/stable-diffusion-webui/models/Lora/thickerLinesAnimeStyle_loraVers
 
 
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/xperoEnd1essModel_v1.safetensors https://civitai.com/api/download/models/7307
-wget -O /root/stable-diffusion-webui/models/Stable-diffusion/xperoEnd1essModel_v1.vae.safetensors https://civitai.com/api/download/models/7307?type=VAE&format=Other
+wget -O /root/stable-diffusion-webui/models/Stable-diffusion/xperoEnd1essModel_v1.vae.safetensors https://civitai.com/api/download/models/7307?type=VAE
 
 wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/acheong08/f222/resolve/main/f222.safetensors
 
@@ -103,6 +103,7 @@ wget -O /root/stable-diffusion-webui/models/Stable-diffusion/anyhentai_18.safete
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/anyhentai_18.vae.pt https://civitai.com/api/download/models/12215?type=VAE&format=Other
 
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/xperoEnd1essModel_v2.safetensors https://civitai.com/api/download/models/15368
+wget -O /root/stable-diffusion-webui/models/Stable-diffusion/xperoEnd1essModel_v2.vae.safetensors https://civitai.com/api/download/models/15368?type=VAE
 
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/synthwave_v1.ckpt https://civitai.com/api/download/models/1013
 
