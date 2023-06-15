@@ -52,7 +52,7 @@ wget -O /root/stable-diffusion-webui/embeddings/ng_deepnegative_v1_32t.pt https:
 wget -O /root/stable-diffusion-webui/embeddings/pastel_style.pt https://civitai.com/api/download/models/8430
 wget -O /root/stable-diffusion-webui/embeddings/advntr.pt https://civitai.com/api/download/models/8042
 wget -O /root/stable-diffusion-webui/embeddings/Style-Psycho.pt https://civitai.com/api/download/models/2480
-wget -O /root/stable-diffusion-webui/embeddings/RebeccaEdgerunners.pt https://civitai.com/api/download/models/2869
+# wget -O /root/stable-diffusion-webui/embeddings/RebeccaEdgerunners.pt https://civitai.com/api/download/models/2869
 
 
 # wget -O /root/stable-diffusion-webui/models/Lora/pokes_01.safetensors https://civitai.com/api/download/models/9861
@@ -71,11 +71,11 @@ wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingfac
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/wd-1-4-anime_e2.vae.pt https://huggingface.co/hakurei/waifu-diffusion-v1-4/resolve/main/vae/kl-f8-anime2.ckpt
 # wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/hakurei/waifu-diffusion-v1-3/resolve/main/wd-v1-3-full.ckpt
 
-wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion/resolve/main/Cyberpunk-Anime-Diffusion.safetensors
+# wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/DGSpitzer/Cyberpunk-Anime-Diffusion/resolve/main/Cyberpunk-Anime-Diffusion.safetensors
 
-wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nousr/robo-diffusion/resolve/main/models/robo-diffusion-v1.ckpt
-wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nousr/robo-diffusion-2-base/resolve/main/robo-diffusion-v2-base.ckpt
-wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nousr/robo-diffusion-2-base/resolve/main/robo-diffusion-v2-base.yaml
+# wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nousr/robo-diffusion/resolve/main/models/robo-diffusion-v1.ckpt
+# wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nousr/robo-diffusion-2-base/resolve/main/robo-diffusion-v2-base.ckpt
+# wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nousr/robo-diffusion-2-base/resolve/main/robo-diffusion-v2-base.yaml
 
 # wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.0-pruned-fp16.safetensors
 # wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/andite/anything-v4.0/resolve/main/anything-v4.0-pruned-fp32.safetensors
@@ -87,8 +87,8 @@ wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingfac
 
 wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/ogkalu/Superhero-Diffusion/resolve/main/superhero-diffusion.ckpt
 
-wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/future-diffusion-v1.ckpt
-wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/future-diffusion-v1.yaml
+# wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/future-diffusion-v1.ckpt
+# wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/nitrosocke/Future-Diffusion/resolve/main/future-diffusion-v1.yaml
 
 wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0/resolve/main/dreamlike-diffusion-1.0.safetensors
 
@@ -97,7 +97,7 @@ wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingfac
 
 # wget -O /root/stable-diffusion-webui/models/Stable-diffusion/cyberware_V1_token_style_class_word-fp16-no-ema.safetensors https://huggingface.co/Eppinette/Cyberware/resolve/main/cyberware_token_style_class_word-fp16-no-ema.safetensors
 # wget -O /root/stable-diffusion-webui/models/Stable-diffusion/cyberware_V2_trinart_cyberware_token_style_class_word-fp16-no-ema.safetensors https://huggingface.co/Eppinette/Cyberware/resolve/main/cyberware_trinart_cyberware_token_style_class_word-fp16-no-ema.safetensors
-wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/Eppinette/Cyberware/resolve/main/cyberware_V3_m_cyberware_token_style_class_word-fp16-no-ema.safetensors
+# wget -P /root/stable-diffusion-webui/models/Stable-diffusion/ https://huggingface.co/Eppinette/Cyberware/resolve/main/cyberware_V3_m_cyberware_token_style_class_word-fp16-no-ema.safetensors
 
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/anyhentai_18.safetensors https://civitai.com/api/download/models/12215
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/anyhentai_18.vae.pt https://civitai.com/api/download/models/12215?type=VAE&format=Other
@@ -106,11 +106,17 @@ wget -O /root/stable-diffusion-webui/models/Stable-diffusion/xperoEnd1essModel_v
 
 wget -O /root/stable-diffusion-webui/models/Stable-diffusion/synthwave_v1.ckpt https://civitai.com/api/download/models/1013
 
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_seg.pth
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_scribble.pth
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_openpose.pth
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_normal.pth
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_mlsd.pth
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_hed.pth
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_depth.pth
-wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet/resolve/main/models/control_sd15_canny.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_ip2p.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11e_sd15_shuffle.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_inpaint.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_lineart.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_mlsd.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_normalbae.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_scribble.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.pth
+wget -P /root/stable-diffusion-webui/models/ControlNet https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15s2_lineart_anime.pth
