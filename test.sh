@@ -35,11 +35,11 @@ git clone https://github.com/pharmapsychotic/clip-interrogator-ext
 wget -P /root/stable-diffusion-webui/scripts/ https://raw.githubusercontent.com/Extraltodeus/test_my_prompt/main/scripts/test_my_prompt_custom_script.py
 wget -P /root/stable-diffusion-webui/scripts/ https://raw.githubusercontent.com/dfaker/stable-diffusion-webui-cv2-external-masking-script/main/external_masking.py
 
-wget -P /root/stable-diffusion-webui/ https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/webui.sh
-wget -P /root/stable-diffusion-webui/ https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/webui-user.sh
-wget -P /root/stable-diffusion-webui/ https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/styles.csv
+wget -O /root/stable-diffusion-webui/webui.sh https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/webui.sh
+wget -O /root/stable-diffusion-webui/webui-user.sh https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/webui-user.sh
+wget -O /root/stable-diffusion-webui/styles.csv https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/styles.csv
 wget -P /root/stable-diffusion-webui/ https://github.com/AetherBreaker/stablediff-setup/raw/master/notification.mp3
-wget -P /root/stable-diffusion-webui/ https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/config.json
+wget -O /root/stable-diffusion-webui/config.json https://raw.githubusercontent.com/AetherBreaker/stablediff-setup/master/
 
 
 wget -O /root/stable-diffusion-webui/embeddings/easynegative.safetensors https://civitai.com/api/download/models/9208
