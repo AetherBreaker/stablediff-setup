@@ -21,11 +21,10 @@ git clone https://github.com/fkunn1326/openpose-editor
 git clone https://github.com/Akegarasu/sd-webui-model-converter
 git clone https://github.com/toriato/stable-diffusion-webui-daam
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui-aesthetic-gradients
-git clone https://github.com/zero01101/openOutpaint-webUI-extension
 git clone https://github.com/Gerschel/sd_web_ui_preset_utils
 git clone https://github.com/some9000/StylePile
 git clone https://github.com/Iyashinouta/sd-model-downloader
-git clone https://github.com/ThereforeGames/unprompted
+# git clone https://github.com/ThereforeGames/unprompted
 git clone https://github.com/Extraltodeus/test_my_prompt
 git clone https://github.com/hnmr293/posex
 git clone https://github.com/pharmapsychotic/clip-interrogator-ext
